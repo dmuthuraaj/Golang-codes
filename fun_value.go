@@ -13,4 +13,5 @@ func main() {
 
 	fmt.Println(func1(1, 2))
 	fmt.Println(deliver(func1))
+	fmt.Println("HI")
 }
